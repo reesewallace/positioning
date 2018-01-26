@@ -1,0 +1,12 @@
+body{background-color: #757575}
+.full{display: block; margin: auto; width: 80%; background-color: #c6c6c6; padding:20px; margin-bottom: 10px;}
+.half {display: block; width: 83%; margin-bottom: 20px; margin: auto; margin-top: 20px;}
+.section{display: block; float: left; width: 49%; background-color: #c6c6c6; height: 225px; margin-bottom: 20px; padding-top: 10px;}
+.aside{display: block; float: right; width: 49%; background-color: #c6c6c6; height: 225px; margin-bottom: 20px; padding-top: 10px;}
+.footer{clear: both;}
+
+
+  .article{background-color: #757575; width: 90%; margin: auto; padding-bottom: 5px;}
+  .top{margin: auto; padding: 2px; background-color: #c6c6c6; margin-bottom: 10px; width: 90%;}
+p {font-family: Arial, Helvetica, sans-serif; text-align:center;}
+h1 {font-family: Arial, Helvetica, sans-serif; text-align: center; color: #fff; font-weight: 300; font-size: 14; line-height: 1; padding: 10px 0 0 0;}}
